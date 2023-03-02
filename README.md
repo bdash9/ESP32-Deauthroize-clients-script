@@ -4,7 +4,7 @@ The code will deauth a single client on a wifi net.
 
 Replace SSID and password with you own. Also change the MAC addresses.
 
-You will need to find the BSSID and the MAC of your client.
+You will need to find the BSSID MAC of your access point and the MAC of your client.
 
 Note what mode your wlan is in:
 
